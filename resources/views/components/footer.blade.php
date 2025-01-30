@@ -1,0 +1,1 @@
+<small class="p-3">Mi Banco. Todos los derechos reservados.</small>
