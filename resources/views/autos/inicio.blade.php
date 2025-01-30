@@ -66,4 +66,6 @@
             <li>{{ $auto->modelo  }}</li>
         @endforeach
     </ul>
+
+    <h5>Este es el cambio que hizo Dennis</h5>
 @endsection
