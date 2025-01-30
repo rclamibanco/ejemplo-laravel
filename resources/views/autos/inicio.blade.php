@@ -3,7 +3,7 @@
 @section('titulo', 'Marcas')
 
 @section('contenido')
-    <h1 class="my-3">Autos registrados</h1>
+    <h1 class="my-3">Carros registrados</h1>
 
     <a href="{{ route('autos.agregar') }}" class="btn btn-success mb-3">
         Agregar auto (+)
