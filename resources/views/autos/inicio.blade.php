@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <h3>Autos Nissan</h3>
+    <h3>Autos Nissan de David</h3>
 
     <ul>
         @foreach ($autosNissan as $auto)
@@ -61,7 +61,7 @@
         @endforeach
     </ul>
 
-    <h3>Autos del 2003</h3>
+    <h3>Autos del 2003 de David</h3>
 
     <ul>
         @foreach ($autos2003 as $auto)
