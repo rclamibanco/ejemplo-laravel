@@ -18,7 +18,7 @@ class AutosController extends Controller
     var $notificacion = '';
 
     function inicio() {
-        $autos = Auto::orderby('anio')->paginate(10);
+        $autos = Auto::orderby('anio', 'desc')->paginate(10);
 
         $nissan = Marca::find(8);
         $autosNissan = $nissan->autos;
