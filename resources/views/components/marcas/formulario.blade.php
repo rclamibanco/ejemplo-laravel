@@ -20,4 +20,6 @@
             {{ $editar ? 'Editar' : 'Registrar' }} marca
         </button>
     </div>
+
+    <h1>hola desde david</h1>
 </form>
