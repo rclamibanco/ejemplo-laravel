@@ -5,6 +5,8 @@
 @section('contenido')
     <h1 class="my-3">Carros registrados</h1>
 
+    <h3>Este es mi cambio, soy Carlos</h3>
+
     <a href="{{ route('autos.agregar') }}" class="btn btn-success mb-3">
         Agregar auto (+)
     </a>
